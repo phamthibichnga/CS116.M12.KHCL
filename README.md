@@ -43,7 +43,7 @@
 </tr>
   <table>
   
-  - Bài tập: [Trực quan hóa dữ liệu bản đồ](Progress/Week2/20521642_BichNga_GIS_data_Processing.ipynb) và [Hiện thị ranh giới các quận trên bản đồ.](Progress/Week_2/Hiển_thị_ranh_giới_quận_trên_bản_đồ.ipynb)
+  - Bài tập: [Xử lý dữ liệu GIS](CS116.M12.KHCL/Progress/Week2/20521642_BichNga_GIS_data_Processing.ipynb) và [Hiện thị ranh giới các quận trên bản đồ.](Progress/Week_2/Hiển_thị_ranh_giới_quận_trên_bản_đồ.ipynb)
   
 ### Week 3: Phân tích hành vi click với KMeans.
   &emsp;&emsp;&emsp;&emsp;<img height=400 src='https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/86b5b5443b473b67e8f0eb98ec18d037b949e7ba/Image/week3.png'></img>
