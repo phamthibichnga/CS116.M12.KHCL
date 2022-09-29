@@ -11,7 +11,7 @@
 ## THÀNH VIÊN NHÓM
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
-| 1      | 20521642      | Phạm Thị Bích Nga      |----------:|[phamhibichnga](https://github.com/phamthibichnga9)     :|20521642@gm.uit.edu.vn   |
+| 1      | 20521642      | Phạm Thị Bích Nga      |           |[phamhibichnga](https://github.com/phamthibichnga9)      |20521642@gm.uit.edu.vn   |
 
 
 ## GIỚI THIỆU MÔN HỌC
